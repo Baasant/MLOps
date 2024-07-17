@@ -5,4 +5,4 @@
 
 " 'my_db' is the name of your db"
 
-![Diagram]("D:\mlflow_course\Bassant_Elsayed_mlflow_certification.jpg")
+![Alt text]("D:\mlflow_course\Bassant_Elsayed_mlflow_certification.jpg")
